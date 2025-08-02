@@ -1,0 +1,35 @@
+# Linux Basics Guide
+
+Welcome to the **Linux Basics Guide** — a beginner-friendly, descriptive learning path to understanding Linux, Unix, and Linux Distributions. This guide is based on structured video transcripts and is aimed at students, developers, and tech enthusiasts starting their journey into the Linux ecosystem.
+
+## 📚 What You'll Learn
+
+- What is an Operating System?
+- The origins and evolution of Unix and Linux
+- Features of Linux and Unix
+- Common Linux use cases
+- What is a Linux distribution (distro)?
+- Key differences between popular distros (Ubuntu, Debian, Fedora, RHEL, etc.)
+- Use cases for each distribution
+
+## 🗂️ Guide Contents
+
+| No. | Topic                              | File                            |
+|-----|------------------------------------|---------------------------------|
+| 1   | Introduction to Linux and Unix     | `01-intro-to-linux-unix.md`     |
+| 2   | Understanding Linux Distributions  | `02-linux-distributions.md`     |
+
+## 📌 Intended Audience
+
+- Beginners in Linux and system administration
+- Students in computer science and IT fields
+- Developers exploring open-source ecosystems
+- Anyone curious about how Linux powers our world
+
+## 🐧 Why Linux?
+
+> Linux powers **Android smartphones**, **supercomputers**, **cloud servers**, and more. Learning it opens up endless opportunities in tech.
+
+## 🧾 License
+
+This content is free to use under the MIT License.
