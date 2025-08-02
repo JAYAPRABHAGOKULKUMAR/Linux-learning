@@ -18,18 +18,22 @@ Welcome to the **Linux Basics Guide** — a beginner-friendly, descriptive learn
 |-----|------------------------------------|---------------------------------|
 | 1   | Introduction to Linux and Unix     | `01-intro-to-linux-unix.md`     |
 | 2   | Understanding Linux Distributions  | `02-linux-distributions.md`     |
+| 3   | Introduction to Linux and Unix     | `01-intro-to-linux-unix.md`     |
+| 4   | Understanding Linux Distributions  | `02-linux-distributions.md`     |
+| 5   | Introduction to Linux and Unix     | `01-intro-to-linux-unix.md`     |
+| 6   | Understanding Linux Distributions  | `02-linux-distributions.md`     |
+| 7   | Introduction to Linux and Unix     | `01-intro-to-linux-unix.md`     |
+| 8   | Understanding Linux Distributions  | `02-linux-distributions.md`     |
+| 9   | Introduction to Linux and Unix     | `01-intro-to-linux-unix.md`     |
+| 10  | Understanding Linux Distributions  | `02-linux-distributions.md`     |
 
 ## 📌 Intended Audience
 
 - Beginners in Linux and system administration
-- Students in computer science and IT fields
+- Students in electronics and communication engineering
 - Developers exploring open-source ecosystems
 - Anyone curious about how Linux powers our world
 
 ## 🐧 Why Linux?
 
 > Linux powers **Android smartphones**, **supercomputers**, **cloud servers**, and more. Learning it opens up endless opportunities in tech.
-
-## 🧾 License
-
-This content is free to use under the MIT License.
