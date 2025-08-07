@@ -3,7 +3,7 @@
 <h1 align="center">🐧 Linux Basics Guide</h1>
 
 <p align="center">
-  A beginner-friendly, descriptive learning path to understanding Linux, Unix, and Linux Distributions.
+  A beginner-friendly, descriptive learning path to understanding Linux, Unix, and Linux distributions.
 </p>
 
 <hr/>
@@ -62,5 +62,6 @@
 <hr/>
 
 <p align="center">
-  🔗 <em>Explore. Learn. Build. Power your future with Linux.</em>
+  🔗 <em>Explore. Learn. Build. Power your future with Linux.</em><br/>
+  🧠 <strong>Fun Fact:</strong> Tux the penguin is the official mascot of the Linux kernel!
 </p>
