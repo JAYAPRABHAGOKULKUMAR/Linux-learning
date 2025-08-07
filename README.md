@@ -32,15 +32,9 @@
   </thead>
   <tbody>
     <tr><td>1</td><td>Introduction to Linux and Unix</td><td><code>01-intro-to-linux-unix.md</code></td></tr>
-    <tr><td>2</td><td>Understanding Linux Distributions</td><td><code>02-linux-distributions.md</code></td></tr>
-    <tr><td>3</td><td>Introduction to Linux and Unix</td><td><code>01-intro-to-linux-unix.md</code></td></tr>
-    <tr><td>4</td><td>Understanding Linux Distributions</td><td><code>02-linux-distributions.md</code></td></tr>
-    <tr><td>5</td><td>Introduction to Linux and Unix</td><td><code>01-intro-to-linux-unix.md</code></td></tr>
-    <tr><td>6</td><td>Understanding Linux Distributions</td><td><code>02-linux-distributions.md</code></td></tr>
-    <tr><td>7</td><td>Introduction to Linux and Unix</td><td><code>01-intro-to-linux-unix.md</code></td></tr>
-    <tr><td>8</td><td>Understanding Linux Distributions</td><td><code>02-linux-distributions.md</code></td></tr>
-    <tr><td>9</td><td>Introduction to Linux and Unix</td><td><code>01-intro-to-linux-unix.md</code></td></tr>
-    <tr><td>10</td><td>Understanding Linux Distributions</td><td><code>02-linux-distributions.md</code></td></tr>
+    <tr><td>2</td><td>Introduction to Linux Commands</td><td><code>02-linux-distributions.md</code></td></tr>
+    <tr><td>3</td><td>Introduction to shell scripting</td><td><code>03-intro-to-linux-unix.md</code></td></tr>
+    <tr><td>4</td><td>Understanding Linux Distributions</td><td><code>04-cheat-sheet.md</code></td></tr>
   </tbody>
 </table>
 
