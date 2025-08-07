@@ -11,14 +11,42 @@
 <h2>📚 What You'll Learn</h2>
 
 <ul>
-  <li>What is an Operating System?</li>
-  <li>The origins and evolution of Unix and Linux</li>
-  <li>Features of Linux and Unix</li>
-  <li>Common Linux use cases</li>
-  <li>What is a Linux distribution (distro)?</li>
-  <li>Key differences between popular distros (Ubuntu, Debian, Fedora, RHEL, etc.)</li>
-  <li>Use cases for each distribution</li>
+  <li>
+    <strong>Introduction to Linux & Unix</strong><br/>
+    - What is an Operating System?<br/>
+    - Role and basic functions of an OS<br/>
+    - Unix and Linux Evolution: Origins of Unix and how Linux became a popular open-source alternative<br/>
+    - Linux Architecture Overview: Key components like the kernel, shell, and file system
+  </li>
+  <li>
+    <strong>Linux Basics & Terminal Navigation</strong><br/>
+    - Linux Terminal Fundamentals: How to use the terminal, including tab completion and command history<br/>
+    - Directory Browsing & File Management: Essential commands (<code>ls</code>, <code>cd</code>, <code>mkdir</code>, <code>rm</code>, <code>cp</code>, <code>mv</code>)
+  </li>
+  <li>
+    <strong>Essential Linux Commands</strong><br/>
+    - Informational Commands: Checking system info (<code>uname</code>, <code>df</code>, <code>free</code>, <code>man</code>)<br/>
+    - File & Directory Management: Navigating, creating, deleting, and modifying files/directories<br/>
+    - Text File Manipulation: Tools like <code>cat</code>, <code>grep</code>, <code>sed</code>, and <code>awk</code>
+  </li>
+  <li>
+    <strong>Networking & System Management</strong><br/>
+    - Networking Commands: Basics of <code>ping</code>, <code>ifconfig</code>, <code>netstat</code>, and <code>ssh</code><br/>
+    - File Permissions & Ownership: Managing access using <code>chmod</code>, <code>chown</code>, and <code>chgrp</code>
+  </li>
+  <li>
+    <strong>Shell Scripting & Automation</strong><br/>
+    - Shell Scripting Basics: Writing simple scripts, variables, and loops<br/>
+    - Filters, Pipes, and Variables: Combining commands (<code>|</code>, <code>></code>, <code>>></code>) and using shell variables<br/>
+    - Advanced Bash Scripting: Functions, conditionals, and script optimization<br/>
+    - Job Scheduling with Cron: Automating tasks using <code>crontab</code>
+  </li>
+  <li>
+    <strong>Archiving & Compression</strong><br/>
+    - File Compression Commands: Using <code>tar</code>, <code>gzip</code>, and <code>zip</code> for archiving and compression
+  </li>
 </ul>
+
 
 <h2>🗂️ Guide Contents</h2>
 
