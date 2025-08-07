@@ -1,10 +1,6 @@
 # Introduction to Linux and Unix
 
-Welcome to the *Introduction to Linux and Unix* course. This video-based module provides a foundational understanding of operating systems, specifically focusing on Unix and Linux.
-
 ## 🎯 Learning Objectives
-
-After completing this video, you will be able to:
 
 - Explain what an Operating System (OS) is.
 - Describe the origins and evolution of Unix and Linux.
